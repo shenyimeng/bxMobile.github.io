@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>新手体验</title>
+    <link rel="stylesheet" href="../css/licai.css">
+    <script src="../js/jquery-1.8.3.min.js"></script>
+    <script src="../js/circle-loading.js"></script>
+</head>
+<body>
+<!--lc-top-->
+<div class="lc-top">
+    <a href="../licai.html" class="back"></a><h3>新手体验</h3>
+</div>
+<div class="lc-item ">
+    <div class="lc-item-icon new-item"></div>
+    <div class="circle-process" id="new-process">
+        <div class="left">
+            <div class="circle left-circle"></div>
+        </div>
+        <div class="right">
+            <div class="circle right-circle"></div>
+        </div>
+        <div class="percent-box"><span class="percent-num">0</span>%</div>
+    </div>
+    <table>
+        <tr>
+            <td colspan="2" class="table-tit">百信金服新手标第十三期</td></tr>
+        <tr>
+            <td>
+                <p class="table-num yellow">18.8%</p>
+                <span class="table-span">年化收益</span>
+            </td>
+            <td>
+                <p class="table-num">7天</p>
+                <span class="table-span">理财期限</span>
+            </td>
+        </tr>
+    </table>
+</div>
+<div class="lc-item ">
+    <div class="lc-item-icon exp-item"></div>
+    <div class="circle-process" id="exp-process">
+        <div class="left">
+            <div class="circle left-circle" id="leftcircle2"></div>
+        </div>
+        <div class="right">
+            <div class="circle right-circle" id="rightcircle2"></div>
+        </div>
+        <div class="percent-box"><span id="percent-num2">0</span>%</div>
+    </div>
+    <table>
+        <tr>
+            <td colspan="2" class="table-tit">百信金服体验标第十三期</td></tr>
+        <tr>
+            <td>
+                <p class="table-num yellow">18.8%</p>
+                <span class="table-span">年化收益</span>
+            </td>
+            <td>
+                <p class="table-num">7天</p>
+                <span class="table-span">理财期限</span>
+            </td>
+        </tr>
+    </table>
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+    $(function(){
+        circleLoading('new-process',79);
+        circleLoading('exp-process',79);
+    });
+</script>

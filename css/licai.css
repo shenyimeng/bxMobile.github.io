@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.lc-top*/
+.lc-top{
+    height: 4rem;
+    background: #f8f8f8;
+    padding: 0 1rem;
+    position: relative;
+}
+.lc-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #191919;
+}
+.lc-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left-b.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+/*lc-type*/
+.lc-type{
+    border-top: 1px solid #8a8a8a;
+    border-bottom: 1px solid #8a8a8a;
+    background: #ffffff;
+    margin-bottom: 1rem;
+}
+.zhai-type{
+    margin-bottom: 5rem;
+}
+/*lc-tit*/
+.lc-tit{
+    height: 4rem;
+    line-height: 4rem;
+    display: block;
+}
+.lc-tit .lc-tit-icon{
+    width: 6.5rem;
+    height: 100%;
+    float: left;
+}
+.new-type .lc-tit .lc-tit-icon{
+    background: url("../img/lc-new.png") no-repeat center center;
+}
+.vip-type .lc-tit .lc-tit-icon{
+    background: url("../img/lc-vip.png") no-repeat center center;
+}
+.short-type .lc-tit .lc-tit-icon{
+    background: url("../img/lc-short.png") no-repeat center center;
+}
+.jing-type .lc-tit .lc-tit-icon{
+    background: url("../img/lc-jing.png") no-repeat center center;
+}
+.zhai-type .lc-tit .lc-tit-icon{
+    background: url("../img/lc-zhai.png") no-repeat center center;
+}
+.lc-tit h3{
+    color: #191919;
+    font-size: 1.6rem;
+    font-weight: normal;
+}
+.lc-item{
+    height: 10rem;
+    border-top: 1px solid #8a8a8a;
+    position: relative;
+    padding: 1rem 1rem 1rem 1.5rem;
+    box-sizing: border-box;
+}
+.lc-item .lc-item-icon{
+    width: 4.6rem;
+    height: 4.25rem;
+    position: absolute;
+    top:0;
+    right: 0;
+}
+/*新手标*/
+ .lc-item-icon.new-item{
+     background: url("../img/lc-newicon.png") no-repeat center center;
+    background-size: 55px 51px;
+ }
+ /*体验标*/
+ .lc-item-icon.exp-item{
+    background: url("../img/lc-expicon.png") no-repeat center center;
+    background-size: 55px 51px;
+}
+ /*短期灵活 优选计划A*/
+ .lc-item-icon.short-item{
+    width: 2.7rem;
+    height: 100%;
+    background: url("../img/lc-shorticon.png") no-repeat center center;
+    background-size: 32px 120px;
+}
+/*短期灵活 优选计划B*/
+ .lc-item-icon.short-item-planB{
+    width: 2.7rem;
+    height: 100%;
+    background: url("../img/lc-planB.png") no-repeat center center;
+    background-size: 32px 120px;
+}
+.lc-item table{
+    width: 60%;
+    height: 100%;
+    float: left;
+    margin-left: 1.5rem;
+    text-align: center;
+    border-collapse: collapse;
+}
+.lc-item table td{
+}
+.lc-item table td.table-tit{
+    color: #191919;
+    font-size: 1.6rem;
+}
+.lc-item table p.table-num{
+    color: #191919;
+    font-size: 1.6rem;
+    line-height: 1.5em;
+}
+.lc-item table p.yellow{
+    color: #ff562f;
+}
+.lc-item table span.table-span{
+    color: #606060;
+    font-size: 1.4rem;
+    line-height: 1.5em;
+}
+/*circle-process*/
+.circle-process{
+    float: left;
+    position: relative;
+    width: 86px;
+    height: 86px;
+    /*margin: 0 auto;*/
+    background: url("../img/lc-circle-bg.png") no-repeat center center;
+}
+.circle-process .left,
+.circle-process .right{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    top:0;
+}
+.circle-process .left{
+    left: 0;
+}
+.circle-process .right{
+    right: 1px;
+}
+.circle-process .circle {
+    width: 200%;
+    height: 100%;
+    border: 3px solid transparent;
+    box-sizing: border-box;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+}
+.circle-process .left-circle{
+    left:0;
+    border-bottom: 3px solid #ff562f;
+    border-left: 3px solid #ff562f;
+    transform: rotate(-135deg);
+    -webkit-animation:all 5s linear;
+    -o-animation:all 5s linear;
+    animation:all 5s linear;
+}
+.circle-process .right-circle{
+    right:0;
+    border-top: 3px solid #ff562f;
+    border-right: 3px solid #ff562f;
+    transform: rotate(-135deg);
+    -webkit-animation:all 5s linear;
+    -o-animation:all 5s linear;
+    animation:all 5s linear;
+}
+.circle-process .percent-box{
+    width: 100%;
+    height: 100%;
+    line-height: 86px;
+    text-align: center;
+    color: #ff562f;
+    font-size: 1.5rem;
+}
+.circle-process .percent-box .percent-num{
+    font-size: 2rem;
+}
+
+/*bottom*/
+.bottom{
+    position: fixed;
+    bottom: 0;
+    height: 5rem;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    width: 100%;
+    background: #f7f7f7;
+}
+.bottom ul{
+    width: 100%;
+    height: 100%;
+}
+.bottom ul li{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.bottom ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.bottom li.index-icon{
+    background: url("../img/index-icon1.png") no-repeat center center;
+}
+.bottom li.index-icon.active{
+    background: url("../img/index-icon1-1.png") no-repeat center center;
+}
+.bottom li.financial-icon{
+    background: url("../img/index-icon2.png") no-repeat center center;
+}
+.bottom li.financial-icon.active{
+    background: url("../img/index-icon2-1.png") no-repeat center center;
+}
+.bottom li.account-icon{
+    background: url("../img/index-icon3.png") no-repeat center center;
+}
+.bottom li.account-icon.active{
+    background: url("../img/index-icon3-1.png") no-repeat center center;
+}
+.bottom li.more-icon{
+    background: url("../img/index-icon4.png") no-repeat center center;
+}
+.bottom li.more-icon.active{
+    background: url("../img/index-icon4-1.png") no-repeat center center;
+}

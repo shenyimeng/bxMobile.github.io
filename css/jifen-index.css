@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.jifen-top*/
+.jifen-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.jifen-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #ffffff;
+    font-weight: normal;
+}
+.jifen-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+.jifen-top .history{
+    display: block;
+    height: 100%;
+    float: right;
+    color: #ffffff;
+    font-weight: normal;
+    position: absolute;
+    top:0;
+    right: 1rem;
+    font-size: 1.5rem;
+}
+/*jifen-head*/
+.jifen-head{
+    height: 25rem;
+    background: #ffffff;
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+    position: relative;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+.head-top{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 17.25rem;
+}
+.jifen-num{
+    position: absolute;
+    bottom: 0;
+    font-size: 1.4rem;
+}
+.jifen-num p{
+    color: #191919;
+    text-align: right;
+}
+.jifen-num p span{
+    color: #fca24a;
+    font-size: 1.6rem;
+}
+.left-num{
+     left: 1rem;
+ }
+.right-num{
+    right:1rem;
+}
+.jifen-yuan{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 13.5rem;
+    height: 13.5rem;
+    background: url("../img/jf-yuanbg.png") no-repeat center bottom;
+    background-size: 160px 157px;
+}
+.jifen-yuan img{
+    width: 4.4rem;
+    height: 4.4rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.jifen-yuan .yuan-txt{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #191919;
+    font-size: 1.3rem;
+    width: 100%;
+}
+.jifen-yuan .yuan-txt>span{
+    color: #ffffff;
+    font-size: 2.6rem;
+}
+.jifen-yuan .yuan-txt p span{
+    color: #ffffff;
+    font-size: 1.6rem;
+}
+.jifen-btn{
+    width: 100%;
+    height: 3.5rem;
+    background: #ee6552 url("../img/jf-btnbg.png") no-repeat center center;
+    background-size: 122px 20px;
+    margin: 2rem auto;
+    border-radius: 1rem;
+}
+.jifen-btn a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+/*jifen-item*/
+.jifen-item{
+    height: 3.5rem;
+    width: 100%;
+    border-left: 1rem solid #ee6552;
+    padding-right: 1rem;
+    box-sizing: border-box;
+    background: #ffffff;
+    margin-bottom: 1rem;
+}
+.jifen-item a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 3.5rem;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    color: #191919;
+    font-size: 1.4rem;
+}
+.jifen-item a i{
+    display: block;
+    float: right;
+    width: 1rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}

@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.myaccount-top*/
+.myaccount-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #85453c;
+}
+.myaccount-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #ffffff;
+    font-weight: normal;
+}
+.myaccount-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+/*myaccount-head*/
+.myaccount-head{
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    height: 8rem;
+    background: #ffffff;
+    padding: 1.5rem 1rem 1rem 2rem;
+    box-sizing: border-box;
+}
+.myaccount-head img{
+    float: left;
+    margin-right: 1.5rem;
+}
+.myaccount-head .person-box{
+    float: left;
+    font-size: 1.6rem;
+    line-height: 1.5em;
+    color: #191919;
+}
+.myaccount-head i{
+    display: block;
+    float: right;
+    width: 1rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}
+/*myaccount-item*/
+.myaccount-item{
+    height: 4.75rem;
+    width: 100%;
+    padding: 0 1rem;
+    box-sizing: border-box;
+    background: #ffffff;
+}
+.myaccount-item a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 4.75rem;
+    border-bottom: 1px solid #cccccc;
+    box-sizing: border-box;
+    color: #191919;
+    font-size: 1.5rem;
+}
+.myaccount-item4 a{
+    border-bottom: 0;
+}
+.myaccount-item a span{
+    display: block;
+    float: left;
+    width: 2.5rem;
+    height: 100%;
+}
+.myaccount-item1 a span{
+    background: url("../img/myaccount-icon1.png") no-repeat center center;
+}
+.myaccount-item2 a span{
+    background: url("../img/myaccount-icon2.png") no-repeat center center;
+}
+.myaccount-item3 a span{
+    background: url("../img/myaccount-icon3.png") no-repeat center center;
+}
+.myaccount-item4 a span{
+    background: url("../img/myaccount-icon4.png") no-repeat center center;
+}
+.myaccount-item a i{
+    display: block;
+    float: right;
+    width: 1rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}
+/*myaccount-btn*/
+.myaccount-btn{
+    height: 4rem;
+    width: 100%;
+    line-height: 4rem;
+    text-align: center;
+    background: #ffffff;
+    margin-top: 1rem;
+}
+.myaccount-btn a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 1.5rem;
+}

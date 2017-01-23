@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>积分签到</title>
+    <link rel="stylesheet" href="../css/jifen-qd.css">
+    <link rel="stylesheet" href="../css/calendar.css">
+    <script src="../js/jquery-1.8.3.min.js"></script>
+    <script src="../js/ZK_Calendar.js"></script>
+    <script>
+        var cDate = new Date();
+        var daystr = ["一","二","三","四","五","六","日"];
+        var cYear = cDate.getFullYear();
+        var cMonth = cDate.getMonth()+1;
+        var cDay = daystr[cDate.getDay()];
+        var cDate1 = cDate.getDate();
+        $(function(){
+            console.log(cDate1);
+            $(".date")[0].innerHTML = "星期"+cDay +", "+ cMonth + "月"+ cDate1 + "日, "+cYear;
+        });
+    </script>
+</head>
+<body>
+<!--jifen-top-->
+<div class="jifen-top">
+    <h3><a href="jifen-index.html" class="back"></a>积分等级</h3>
+</div>
+<!--qd-head-->
+<div class="qd-head">
+    <p>每天签到领取积分 <a href="#"><span>周三</span>签到</a></p>
+</div>
+<!--date-->
+<div class="date"></div>
+<!--calendar-->
+<div class="calender">
+    <div id="myCalendar"></div>
+</div>
+<div class="rule-item">
+    <a href="jifen-rule.html">积分规则<i></i></a>
+</div>
+</body>
+</html>
+<script type="text/javascript">
+    ZK_Calendar.init("myCalendar",{autoFull:true});
+</script>

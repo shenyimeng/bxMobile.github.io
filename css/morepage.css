@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+    height: 100%;
+}
+body{
+    height: 100%;
+    background: #f7f7f7 url("../img/more-bg.png") no-repeat center 70%;
+}
+/*.morepage-top*/
+.morepage-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: relative;
+}
+.morepage-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #ffffff;
+    font-weight: normal;
+}
+.morepage-top>i.arrow{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left.png") no-repeat center center;
+    float: left;
+}
+/*morepage-list*/
+.morepage-list{
+    background: #ffffff;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+.morepage-list li{
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    border-bottom: 1px solid #cccccc;
+}
+.morepage-list li:last-child{
+    border: 0;
+}
+.morepage-list li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #141414;
+    font-size: 1.5rem;
+}
+.morepage-list li a i.arrow-right{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+    float: right;
+}
+.morepage-list li a span{
+    float: right;
+    display: block;
+    height: 100%;
+}
+.morepage-list li a span>i{
+    display: block;
+    width: 50px;
+    height: 100%;
+    float: left;
+    margin-right: 0.5rem;
+    background: url("../img/new-icon.png") no-repeat center center;
+}
+    /*bottom*/
+.bottom{
+    position: fixed;
+    bottom: 0;
+    height: 5rem;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    width: 100%;
+    background: #f7f7f7;
+}
+.bottom ul{
+    width: 100%;
+    height: 100%;
+}
+.bottom ul li{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.bottom ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.bottom li.index-icon{
+    background: url("../img/index-icon1.png") no-repeat center center;
+}
+.bottom li.index-icon.active{
+    background: url("../img/index-icon1-1.png") no-repeat center center;
+}
+.bottom li.financial-icon{
+    background: url("../img/index-icon2.png") no-repeat center center;
+}
+.bottom li.financial-icon.active{
+    background: url("../img/index-icon2-1.png") no-repeat center center;
+}
+.bottom li.account-icon{
+    background: url("../img/index-icon3.png") no-repeat center center;
+}
+.bottom li.account-icon.active{
+    background: url("../img/index-icon3-1.png") no-repeat center center;
+}
+.bottom li.more-icon{
+    background: url("../img/index-icon4.png") no-repeat center center;
+}
+.bottom li.more-icon.active{
+    background: url("../img/index-icon4-1.png") no-repeat center center;
+}

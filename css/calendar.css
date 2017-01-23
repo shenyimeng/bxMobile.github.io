@@ -1,0 +1,15 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td,hr,span,strong,img,em,object,option,select{margin:0;padding:0;}
+
+.zk_container { width:100%; position:relative;  background:#fff; padding: 0 10%; box-sizing: border-box;}
+.zk_container .cal_container dl{ width:100%;font-size:12px; font-family:Tahoma, Geneva, sans-serif;}
+.zk_container .cal_container dt{ float:left; width:14.2%; height:60px; line-height:60px;font-size: 14px; text-align: center; color:#be2216;font-weight: bold;}
+.zk_container .cal_container .cal_top{ height:5rem; line-height: 5rem; width:126%; transform: translateX(-10%); font-weight:bold; background:#ee6552; position:relative; padding: 0;font-style: normal;text-align: center;}
+.zk_container .cal_container .cal_top a{ display:block; width:32px; height:100%; position:absolute; top:0;}
+.zk_container .cal_container .cal_top .l-arrow{ left:5%; background: url("../img/jf-arrowleft.png") no-repeat center center;background-size: 32px 32px}
+.zk_container .cal_container .cal_top .r-arrow{ right:5%; background: url("../img/jf-arrowright.png") no-repeat center center;background-size: 32px 32px}
+.zk_container .cal_container .cal_top span{font-size: 16px; color: #ffffff; font-weight: normal;}
+.zk_container .cal_container dd{ font-weight:normal; color:#555;clear:both;}
+.zk_container .cal_container dd a{ width:14.2%; height:40px; line-height:40px;display:block; background:#FFFFFF; font-size: 14px;font-family: 'Arial,Helvetica',serif; float:left;color: #be2216;text-align: center;}
+.zk_container .cal_container dd a.disabled{ color:#272727;cursor:auto;}
+.zk_container .cal_container dd a.today{ background: url("../img/jf-rl-bg.png") no-repeat center center; background-size:40px 40px; border-radius: 4px;color: #ffffff}
+.zk_container .cal_container dd a.log{ color:#C63;}

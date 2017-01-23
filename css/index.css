@@ -1,0 +1,433 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.index-top*/
+.index-top{
+    height: 4rem;
+    background: #f8f8f8;
+    padding: 0 1rem;
+    position: relative;
+}
+.index-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #191919;
+}
+.index-top .index-share{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/index-share.png") no-repeat center center;
+    float: left;
+}
+.index-top .index-msg{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/index-msg.png") no-repeat center center;
+    float: right;
+}
+/*index-banner*/
+.index-banner{
+    height: 15rem;
+}
+.index-banner .slide{
+    position: relative;
+    max-width: 640px;
+    overflow: hidden;
+    height: 100%;
+}
+.index-banner .slide ul{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.index-banner .slide ul li{
+    list-style: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.index-banner .slide ul li img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+/*index-ptgg*/
+.index-ptgg{
+    width: 100%;
+    height: 2.8rem;
+    line-height: 2.8rem;
+    background: #ffffff;
+    overflow: hidden;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+.index-ptgg h4{
+    float: left;
+    font-size: 1.3rem;
+    font-weight: normal;
+}
+.index-ptgg h4 i{
+    display: inline-block;
+    width: 14px;
+    height: 12px;
+    background: url("../img/index-ptgg.png") no-repeat center center;
+    margin-right: 0.5rem;
+}
+.index-ptgg h4 a{
+    color: #505050;
+}
+.index-ptgg .ptgg-list li{
+    width: 67%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index-ptgg .ptgg-list li a{
+    color: #fe562f;
+    font-size: 1.3rem;
+}
+/*index-xszy*/
+.index-xszy{
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    background: #ffffff;
+    overflow: hidden;
+    padding: 0 1rem;
+    box-sizing: border-box;
+    margin-top: 0.5rem;
+   /* margin-bottom: 0.5rem;*/
+}
+.index-xszy h4{
+    float: left;
+    font-size: 1.3rem;
+    font-weight: normal;
+}
+.index-xszy h4 i{
+    display: inline-block;
+    width: 14px;
+    height: 12px;
+    background: url("../img/index-xszy.png") no-repeat center center;
+    margin-right: 0.5rem;
+}
+.index-xszy h4 a{
+    color: #505050;
+}
+.index-xszy span{
+    float: left;
+    color: #fe562f;
+    font-size: 1.3rem;
+}
+.index-xszy .xszy-btn{
+    display: block;
+    float: right;
+    width: 5.5rem;
+    height: 2.25rem;
+    line-height: 2.25rem;
+    text-align: center;
+    background: #fa8818;
+    color: #ffffff;
+    border-radius: 0.5rem;
+    margin-top: 0.375rem;
+}
+/*index-rate*/
+.index-rate{
+    height: 26rem;
+    background: #ffffff;
+    margin-top: 0.5rem;
+}
+.index-rate-tit{
+    height: 4rem;
+    line-height: 4rem;
+}
+.index-rate-tit h3{
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: normal;
+    color: #191919;
+}
+.index-rate>p{
+    text-align: center;
+    height: 3rem;
+    line-height: 3rem;
+    color: #535353;
+    font-size: 1.4rem;
+}
+.index-rate>p span{
+    color: #fa8817;
+}
+.index-rate>a{
+    display: block;
+    height: 4rem;
+    line-height: 4rem;
+    width: 95%;
+    margin: 0 auto;
+    background: #fa8818;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-size: 1.6rem;
+}
+/*rate-box*/
+.index-rate .rate-box{
+    position: relative;
+}
+.index-rate .rate-box h4{
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:2.3rem;
+    font-weight: normal;
+    font-size: 1.4rem;
+    color: #6c6c6c;
+}
+.index-rate .rate-box a{
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    bottom: 2.25rem;
+    width: 6.5rem;
+    height: 2.25rem;
+    line-height: 2.25rem;
+    text-align: center;
+    border: 1px solid #ff6f4e;
+    box-sizing: border-box;
+    border-radius: 0.5rem;
+    color: #ff6f4e;
+}
+/*circle-process*/
+.circle-process{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    background: url("../img/index-circle-bg.png") no-repeat center center;
+}
+.circle-process .left,
+.circle-process .right{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    top:0;
+}
+.circle-process .left{
+    left: 0;
+}
+.circle-process .right{
+    right: 1px;
+}
+.circle-process .circle {
+    width: 200%;
+    height: 100%;
+    border: 6px solid transparent;
+    box-sizing: border-box;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+}
+.circle-process .left-circle{
+    left:0;
+    border-bottom: 6px solid #ff562f;
+    border-left: 6px solid #ff562f;
+    transform: rotate(-135deg);
+    -webkit-animation:all 5s linear;
+    -o-animation:all 5s linear;
+    animation:all 5s linear;
+}
+.circle-process .right-circle{
+    right:0;
+    border-top: 6px solid #ff562f;
+    border-right: 6px solid #ff562f;
+    transform: rotate(-135deg);
+    -webkit-animation:all 5s linear;
+    -o-animation:all 5s linear;
+    animation:all 5s linear;
+}
+.circle-process .percent-box{
+    width: 100%;
+    height: 100%;
+    line-height: 160px;
+    text-align: center;
+    color: #ff562f;
+    font-size: 1.5rem;
+}
+.circle-process .percent-box #percent-num{
+    font-size: 3rem;
+}
+.circle-process #nianhua-num{
+    font-size: 3rem;
+}
+/*bottom*/
+.bottom{
+    position: fixed;
+    bottom: 0;
+    height: 5rem;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    width: 100%;
+    background: #f7f7f7;
+}
+.bottom ul{
+    width: 100%;
+    height: 100%;
+}
+.bottom ul li{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.bottom ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.bottom li.index-icon{
+     background: url("../img/index-icon1.png") no-repeat center center;
+ }
+.bottom li.index-icon.active{
+    background: url("../img/index-icon1-1.png") no-repeat center center;
+}
+.bottom li.financial-icon{
+    background: url("../img/index-icon2.png") no-repeat center center;
+}
+.bottom li.financial-icon.active{
+    background: url("../img/index-icon2-1.png") no-repeat center center;
+}
+.bottom li.account-icon{
+    background: url("../img/index-icon3.png") no-repeat center center;
+}
+.bottom li.account-icon.active{
+    background: url("../img/index-icon3-1.png") no-repeat center center;
+}
+.bottom li.more-icon{
+    background: url("../img/index-icon4.png") no-repeat center center;
+}
+.bottom li.more-icon.active{
+    background: url("../img/index-icon4-1.png") no-repeat center center;
+}
+
+/*iphone4,iphone5*/
+@media only screen and (min-width: 320px){
+    .index-banner{
+        height: 12rem;
+    }
+    .index-rate{
+        margin-bottom: 5rem;
+    }
+    .index-rate{
+        height: 20.4rem;
+    }
+    .index-rate-tit {
+        height: 2rem;
+        line-height: 2rem;
+    }
+    .index-rate>p{
+        height: 1.5rem;
+        line-height: 1.5rem;
+    }
+    .index-rate>a{
+        height: 2.5rem;
+        line-height: 2.5rem;
+    }
+}
+@media only screen and (max-width: 320px){
+    .index-xszy{
+        margin: 0;
+    }
+}
+@media only screen and (min-width: 360px){
+    .index-banner{
+        height: 14rem;
+    }
+    .index-rate{
+        margin-bottom: 5rem;
+    }
+    .index-rate{
+        height: 22.19rem;
+    }
+    .index-rate-tit {
+        height: 3rem;
+        line-height: 3rem;
+    }
+    .index-rate>p{
+        height: 2rem;
+        line-height: 2rem;
+    }
+    .index-rate>a{
+        height: 3rem;
+        line-height: 3rem;
+    }
+}
+/*iphone6*/
+@media only screen and (min-width: 375px){
+    .index-banner{
+        height: 14rem;
+    }
+    .index-rate{
+        margin-bottom: 5rem;
+    }
+    .index-rate{
+        height: 22.19rem;
+    }
+    .index-rate-tit {
+        height: 3rem;
+        line-height: 3rem;
+    }
+    .index-rate>p{
+        height: 2rem;
+        line-height: 2rem;
+    }
+    .index-rate>a{
+        height: 3rem;
+        line-height: 3rem;
+    }
+}
+/*iphone6p*/
+@media only screen and (min-width: 414px){
+    .index-banner{
+        height: 17.4rem;
+    }
+    .index-rate{
+        margin-bottom: 5rem;
+    }
+    .index-xszy .xszy-btn{
+        margin-top: 0.875rem;
+    }
+    .index-rate{
+        height: 28rem;
+    }
+    .index-rate-tit {
+        height: 5rem;
+        line-height: 5rem;
+    }
+    .index-rate>p{
+        height: 3rem;
+        line-height: 3rem;
+    }
+    .index-rate>a{
+        height: 4rem;
+        line-height: 4rem;
+    }
+}

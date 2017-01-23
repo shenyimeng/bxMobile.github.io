@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.jifen-top*/
+.jifen-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 3;
+}
+.jifen-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #ffffff;
+    font-weight: normal;
+}
+.jifen-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+/*jifen-use jifen-what jifen-method*/
+.jifen-use,.jifen-what,.jifen-method{
+    margin-bottom: 1rem;
+}
+/*rule-tit*/
+.rule-tit{
+    height: 3.5rem;
+    width: 100%;
+    border-left: 1rem solid #ee6552;
+    padding-right: 1rem;
+    box-sizing: border-box;
+    background: #ffffff;
+    margin-bottom: 0.2rem;
+}
+.rule-tit a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 3.5rem;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    color: #191919;
+    font-size: 1.4rem;
+}
+.rule-tit a i{
+    display: block;
+    float: right;
+    width: 1rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}
+.jifen-use{
+    margin-top: 5rem;
+}
+/*rule-con*/
+.rule-con{
+    width: 100%;
+    background: #ffffff;
+    padding: 1rem;
+    box-sizing: border-box;
+    line-height: 2em;
+    font-size: 1.3rem;
+    color: #696969;
+}
+.rule-con p{
+    padding: 0 1rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.rule-con span{
+    padding: 0 1rem;
+    box-sizing: border-box;
+    color: #ee6552;
+}
+.rule-con table{
+    border-collapse: collapse;
+    text-align: center;
+    line-height: 1.7em;
+}
+.rule-con table td{
+     border: 1px solid #9e9e9e;
+    padding: 0.5rem;
+    box-sizing: border-box;
+ }
+.rule-con table thead td.col1{
+    width: 21%;
+}
+.rule-con table thead td.col2{
+    width: 41%;
+}
+.rule-con table thead td.col3{
+    width: 38%;
+}
+.rule-con table tbody{
+    font-size: 1.2rem;
+}
+.rule-con table tbody .col3{
+    text-align: left;
+}
+.jifen-what .rule-con p i{
+    display: block;
+    position: absolute;
+    left: 0.45rem;
+    top:0.85rem;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: #394f61;
+}

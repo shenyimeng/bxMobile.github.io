@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.youhuiquan-top*/
+.youhuiquan-top{
+    height: 4rem;
+    background: #f7f7f7;
+    padding: 0 1rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #a5a5a5;
+}
+.youhuiquan-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #191919;
+    font-weight: normal;
+}
+.youhuiquan-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left-b.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+/*youhuiquan-tab*/
+.youhuiquan-tab{
+    margin-top: 4rem;
+}
+/*tab-tit*/
+.tab-tit{
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    background: #ffffff;
+}
+.tab-tit ul{
+    width: 100%;
+    height: 100%;
+}
+.tab-tit ul li{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    font-size: 1.3rem;
+    color: #303030;
+}
+.tab-tit ul li.active{
+    color: #fa8818;
+    border-bottom: 0.4rem solid #fa8818;
+    box-sizing: border-box;
+}
+
+ .quan{
+    width: 90%;
+    height: 12rem;
+    margin: 0 auto;
+}
+ .quan .quan-left{
+    width: 15%;
+    height: 100%;
+    background: url("../img/yhq-left.png") no-repeat center center;
+    background-size: 49px 149px;
+    float: left;
+    position: relative;
+}
+ .quan .quan-right{
+    width: 84%;
+    height: 100%;
+    background: url("../img/yhq-right-shadow.png") no-repeat center center;
+    background-size: 271px 145px;
+    float: right;
+     font-size: 1.4rem;
+     color: #777777;
+     padding-left: 2rem;
+     box-sizing: border-box;
+    position: relative;
+}
+ .quan .quan-left span{
+    display: block;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    color: #ffffff;
+    right: 0;
+    top:0;
+    padding: 3.8rem 0;
+    font-size: 1.4rem;
+}
+.quan .quan-right .quan-right-tit{
+    width: 100%;
+    height: 37%;
+    line-height: 4.5em;
+}
+ .quan .quan-right .quan-right-tit span{
+    color: #191919;
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+ .quan .quan-right .quan-right-con{
+    width: 100%;
+    height: 63%;
+    padding-top: 0.6rem;
+    box-sizing: border-box;
+    line-height: 1.5em;
+     position: relative;
+}
+.quan .quan-right .quan-right-con a.status{
+    display: block;
+    position: absolute;
+    right: 3rem;
+    bottom: 2rem;
+    width: 5rem;
+    text-align: center;
+    border-radius: 0.3rem;
+    background: #ef694c;
+    color: #ffffff;
+}
+.quan .quan-right .quan-right-con a.disabled{
+    background: #cccccc;
+}
+.tab-con2, .tab-con3{
+    display: none;
+}
+/*iphone4,iphone5*/
+@media only screen and (min-width: 320px){
+
+}
+/*iphone6*/
+@media only screen and (min-width: 375px) {
+    .quan{
+        margin-top: 1rem;
+    }
+}
+/*iphone6p*/
+@media only screen and (min-width: 414px){
+    .quan{
+        width: 90%;
+        height: 14rem;
+        margin: 1rem auto;
+    }
+    .quan .quan-left{
+        width: 15%;
+        height: 100%;
+        background: url("../img/quan-left.png") no-repeat center center;
+        background-size: 100%;
+        float: left;
+        position: relative;
+    }
+    .quan .quan-right{
+        width: 84%;
+        height: 100%;
+        background: url("../img/quan-right-shadow.png") no-repeat center center;
+        background-size: 100%;
+        float: right;
+        position: relative;
+    }
+}

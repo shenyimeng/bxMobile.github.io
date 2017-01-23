@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.transation-record-top*/
+.transation-record-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: relative;
+}
+.transation-record-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #ffffff;
+    font-weight: normal;
+}
+.transation-record-top>a.arrow{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left.png") no-repeat center center;
+    float: left;
+}
+/*nav*/
+.transation-record-top .nav{
+    position: absolute;
+    top:0;
+    right: 0.5rem;
+    width: 5.8rem;
+}
+.transation-record-top .nav .nav-tit{
+    display: block;
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.6rem;
+    color: #ffffff;
+    background: #ee6552;
+    position: relative;
+}
+.transation-record-top .nav .nav-tit i{
+    display: block;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    right: 0.7rem;
+    bottom: 1.1rem;
+    background: url("../img/msg-down.png") no-repeat center center;
+}
+.transation-record-top .nav .nav-list{
+    position: absolute;
+    width: 100%;
+    display: none;
+}
+.transation-record-top .nav .nav-list li{
+    width: 100%;
+    height: 3.3rem;
+    line-height: 3.3rem;
+    text-align: center;
+    background: #ee6552;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #be584a;
+}
+.transation-record-top .nav .nav-list li:last-child{
+    border: 0;
+}
+.transation-record-top .nav .nav-list li a{
+    color: white;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.table{
+    width: 100%;
+}
+.table table{
+    width: 100%;
+    text-align: center;
+    font-size: 1.4rem;
+    color: #191919;
+    border-collapse: collapse;
+}
+.table table thead td{
+    height:3rem;
+    line-height: 3rem;
+    background: #ffffff;
+}
+.table table tbody td{
+    height:2.6rem;
+    line-height: 2.6rem;
+    background: #ffffff;
+}

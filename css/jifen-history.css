@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.jifen-top*/
+.jifen-top{
+    height: 4rem;
+    background: #f7f7f7;
+    padding: 0 1rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #a5a5a5;
+}
+.jifen-top h3{
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #191919;
+    font-weight: normal;
+}
+.jifen-top .back{
+    display: block;
+    width: 1.83rem;
+    height: 100%;
+    background: url("../img/arrow-left-b.png") no-repeat center center;
+    float: left;
+    position: absolute;
+}
+/*history-tab*/
+.history-tab{
+    margin-top: 4rem;
+}
+/*tab-tit*/
+.tab-tit{
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+    background: #ffffff;
+}
+.tab-tit ul{
+    width: 100%;
+    height: 100%;
+}
+.tab-tit ul li{
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.tab-tit ul li.active{
+    color: #ee6552;
+    border-bottom: 0.4rem solid #ee6552;
+    box-sizing: border-box;
+}
+.tab-con,
+.tab-con1,
+.tab-con2,
+.tab-con table{
+    width: 100%;
+}
+.tab-con table{
+    text-align: center;
+    border-collapse: collapse;
+}
+.tab-con table thead{
+    background: #ececec;
+}
+.tab-con table thead tr{
+    height: 2rem;
+}
+.tab-con2{
+    display: none;
+}

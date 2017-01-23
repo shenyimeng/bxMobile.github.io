@@ -1,0 +1,293 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Microsoft YaHei',serif;
+    list-style: none;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100%;
+    background: #f7f7f7;
+}
+/*.account-top*/
+.account-top{
+    height: 4rem;
+    background: #ee6552;
+    padding: 0 1rem;
+    position: relative;
+}
+.account-top a{
+    display: block;
+    height: 100%;
+    line-height: 4rem;
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+.account-top .my-account{
+    float: left;
+}
+.account-top .recharge{
+    float: right;
+}
+/*big-box*/
+.big-box{
+    height: 12.8rem;
+    background: #ee6552;
+    color: #ffffff;
+    position: relative;
+}
+.big-box>div{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.big-box p{
+    text-align: center;
+    font-size: 1.8rem;
+}
+.big-box p.num{
+    font-size: 2.5rem;
+    line-height: 2em;
+}
+/*small-boxes*/
+.small-boxes{
+    width: 100%;
+    height: 6.5rem;
+    background: #ee6552;
+    color: #ffffff;
+    border-top: 1px solid #ffffff;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.small-boxes>.small-box{
+    display: block;
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+.small-boxes>.right-box{
+    border-left: 1px solid #ffffff;
+    padding-left: 1rem;
+    box-sizing: border-box;
+}
+.small-boxes>.small-box p{
+    height: 50%;
+    font-size: 1.5rem;
+    line-height: 1.5em;
+}
+.small-boxes>.small-box p.num{
+    font-size: 1.6rem;
+    line-height: 2.5em;
+}
+.small-boxes>.right-box i{
+    display: block;
+    width: 1rem;
+    height: 1.7rem;
+    background: url("../img/arrow-right-w.png") no-repeat center center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+/*account-items*/
+.account-items{
+    height: 6rem;
+    background: #ffffff;
+    margin-bottom: 1rem;
+}
+.account-items ul{
+    width: 100%;
+    height: 100%;
+}
+.account-items li{
+    width: 25%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+.account-items li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.account-items li a.jifen{
+    background: url("../img/account-jifen.png") no-repeat center center;
+    background-size: 50px;
+}
+.account-items li a.jiaoyi{
+    background: url("../img/account-jiaoyi.png") no-repeat center center;
+    background-size: 50px;
+}
+.account-items li a.youhuiquan{
+    background: url("../img/account-yhq.png") no-repeat center center;
+    background-size: 50px;
+}
+.account-items li a.huodong{
+    background: url("../img/account-new.png") no-repeat center center;
+    background-size: 50px;
+}
+.account-items li a.youhuiquan i{
+    display: block;
+    position: absolute;
+    background: red;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    top:0.7rem;
+    left:50%;
+    margin-left: 0.9rem;
+}
+/*my-lc*/
+.my-lc{
+    height: 16rem;
+    background: #ffffff;
+    margin-bottom: 1rem;
+}
+.my-lc .my-lc-tit{
+    height: 3.5rem;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+.my-lc .my-lc-tit h3{
+    line-height: 3.5rem;
+    color: #212121;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.my-lc .my-lc-con ul{
+    border-top: 1px solid #d9d9d9;
+    width: 100%;
+    height: 6.25rem;
+    overflow: hidden;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.my-lc .my-lc-con ul li{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.my-lc .my-lc-con ul li.right-li{
+    border-left: 1px solid #d9d9d9;
+    padding-left: 1rem;
+    box-sizing: border-box;
+}
+.my-lc .my-lc-con ul li p{
+    font-size: 1.4rem;
+    color: #212121;
+    line-height: 1.7em;
+}
+/*zhai*/
+.zhai{
+    height: 6rem;
+    background: #ffffff;
+    padding: 1rem;
+    box-sizing: border-box;
+    position: relative;
+    margin-bottom: 1rem;
+}
+.zhai p{
+    color: #212121;
+    line-height: 1.5em;
+    font-size: 1.5rem;
+}
+.zhai i{
+    display: block;
+    position: absolute;
+    right: 1rem;
+    top:0;
+    height: 100%;
+    width: 1rem;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}
+/*same-item*/
+.same-item{
+    height: 4rem;
+    background: #ffffff;
+    margin-bottom: 1rem;
+    padding: 0 1rem;
+    box-sizing: border-box;
+}
+.search-item{
+    margin-bottom: 5rem;
+}
+.same-item>div{
+    width: 3rem;
+    height: 100%;
+    float: left;
+    margin-right: 1rem;
+}
+.same-item>div.invite-icon{
+    background: url("../img/account-friend.png") no-repeat center center;
+}
+.same-item>div.vip-icon{
+    background: url("../img/account-vip.png") no-repeat center center;
+}
+.same-item>div.search-icon{
+    background: url("../img/account-hui.png") no-repeat center center;
+}
+.same-item>p{
+    float: left;
+    height: 4rem;
+    line-height: 4rem;
+    color: #212121;
+    font-size: 1.5rem;
+}
+.same-item>i{
+    display: block;
+    float: right;
+    width: 1rem;
+    height: 100%;
+    background: url("../img/arrow-right.png") no-repeat center center;
+}
+/*bottom*/
+.bottom{
+    position: fixed;
+    bottom: 0;
+    height: 5rem;
+    box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    width: 100%;
+    background: #f7f7f7;
+}
+.bottom ul{
+    width: 100%;
+    height: 100%;
+}
+.bottom ul li{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.bottom ul li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.bottom li.index-icon{
+    background: url("../img/index-icon1.png") no-repeat center center;
+}
+.bottom li.index-icon.active{
+    background: url("../img/index-icon1-1.png") no-repeat center center;
+}
+.bottom li.financial-icon{
+    background: url("../img/index-icon2.png") no-repeat center center;
+}
+.bottom li.financial-icon.active{
+    background: url("../img/index-icon2-1.png") no-repeat center center;
+}
+.bottom li.account-icon{
+    background: url("../img/index-icon3.png") no-repeat center center;
+}
+.bottom li.account-icon.active{
+    background: url("../img/index-icon3-1.png") no-repeat center center;
+}
+.bottom li.more-icon{
+    background: url("../img/index-icon4.png") no-repeat center center;
+}
+.bottom li.more-icon.active{
+    background: url("../img/index-icon4-1.png") no-repeat center center;
+}

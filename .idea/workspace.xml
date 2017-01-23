@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a6d8df5-7916-432f-be7c-55e2c2177310" name="Default" comment="up1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-friend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-hui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-jiaoyi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-jifen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/account-yhq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-left-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-right-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-circle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon1-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon4-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-ptgg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index-xszy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-btnbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-btnicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-rl-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-rlIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jf-yuanbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-circle-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-expicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-jing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-newicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-planB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-short.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-shorticon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lc-zhai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/more-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/msg-all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/msg-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/msg-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/myaccount-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/myaccount-icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/myaccount-icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/myaccount-icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/myaccount-icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/new-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/quan-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/quan-right-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/quan-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yhq-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yhq-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yhq-right-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/yhq-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/baixin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/account/myaccount.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/account.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jifen-history.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jifen-index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jifen-qd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jifen-rule.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/licai.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/morepage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/my-msg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/myaccount.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/transation-record.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/youhuiquan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/jifen-history.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/jifen-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/jifen-qd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/jifen-rule.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/transaction-record.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdj/youhuiquan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ZK_Calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/banner-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/circle-loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gonggao-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/licai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/licai/licai-detail-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/licai/licai-detail-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/licai/licai-detail-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/licai/licai-detail-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/morepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my-msg.html" />
+    </list>
+    <ignored path="baixin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="baixin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="my-msg.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/my-msg.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/account.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="licai.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/licai.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myaccount.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/myaccount.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jifen-index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/jifen-index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jifen-history.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/jifen-history.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.6923075">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZK_Calendar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/ZK_Calendar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.4">
+              <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/calendar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.461538">
+              <caret line="11" column="165" selection-start-line="11" selection-start-column="165" selection-end-line="11" selection-end-column="165" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner-slide.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/banner-slide.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="circle-loading.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/circle-loading.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45544556">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/morepage.css" />
+        <option value="$PROJECT_DIR$/css/jifen-rule.css" />
+        <option value="$PROJECT_DIR$/css/jifen-qd.css" />
+        <option value="$PROJECT_DIR$/css/youhuiquan.css" />
+        <option value="$PROJECT_DIR$/css/transation-record.css" />
+        <option value="$PROJECT_DIR$/css/my-msg.css" />
+        <option value="$PROJECT_DIR$/css/account.css" />
+        <option value="$PROJECT_DIR$/css/licai.css" />
+        <option value="$PROJECT_DIR$/css/myaccount.css" />
+        <option value="$PROJECT_DIR$/css/jifen-index.css" />
+        <option value="$PROJECT_DIR$/css/jifen-history.css" />
+        <option value="$PROJECT_DIR$/js/ZK_Calendar.js" />
+        <option value="$PROJECT_DIR$/css/calendar.css" />
+        <option value="$PROJECT_DIR$/js/circle-loading.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="baixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="baixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="baixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="F:/buxx" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6d8df5-7916-432f-be7c-55e2c2177310" name="Default" comment="" />
+      <created>1485140354222</created>
+      <option name="number" value="Default" />
+      <updated>1485140354222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.49791667" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.50208336" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up1" />
+    <option name="LAST_COMMIT_MESSAGE" value="up1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6923075">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/morepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jifen-rule.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jifen-qd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/youhuiquan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/transation-record.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/account.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/licai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/myaccount.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jifen-index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jifen-history.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6923075">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ZK_Calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4">
+          <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/my-msg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.461538">
+          <caret line="11" column="165" selection-start-line="11" selection-start-column="165" selection-end-line="11" selection-end-column="165" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/banner-slide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/circle-loading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45544556">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
